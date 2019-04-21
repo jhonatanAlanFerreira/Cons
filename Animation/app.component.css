@@ -1,0 +1,5 @@
+.window{
+    border:2px solid black;
+    transform: translateY(-100%);
+    visibility: hidden;
+}
